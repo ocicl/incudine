@@ -4,7 +4,7 @@ Music/DSP programming environment for Common Lisp
 
 |---------+-----------------------------------------------------------------------------------|
 | source  | git:https://github.com/titola/incudine.git                                        |
-| commit  | 7ef44a8                                                                           |
+| commit  | 1480d6b                                                                           |
 | systems | incudine incudine-snd incudine-lv2 incudine-ladspa incudine-fluidsynth cudere-clm |
 |---------+-----------------------------------------------------------------------------------|
  
